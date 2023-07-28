@@ -1,0 +1,1 @@
+default webpack look into src folder in order to build/server
