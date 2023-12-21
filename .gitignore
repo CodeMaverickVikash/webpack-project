@@ -1,3 +1,4 @@
 /node_modules
 /bundles
 /dest
+package-lock.json
